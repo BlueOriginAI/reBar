@@ -1,0 +1,36 @@
+{
+  "product": "reBar",
+  "version": "1.11.2",
+  "build": 35,
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimumMacOS": "13.0",
+  "bundleIdentifier": "com.remocode.rebar.menubar",
+  "sourceRepository": "BlueOriginAI/reBar-source",
+  "sourceRevision": "37a45d4e497d6e08e1cc5d4dbe5469bd2e3accd2",
+  "sourceTag": "v1.11.2",
+  "asset": "reBar-1.11.2-macOS-arm64.dmg",
+  "assetSize": 7622712,
+  "sha256": "878c25ca0cd3afe83a391911806d6e2fa385822133a5f8f6fe009becefd892f2",
+  "developerTeam": "F2VPRQXFH4",
+  "notarization": {
+    "application": "Accepted",
+    "diskImage": "Accepted"
+  },
+  "validation": {
+    "nativeUnitTestsPassed": 29,
+    "modelChecks": [
+      "menu-click policy",
+      "cloud configuration",
+      "account presentation"
+    ],
+    "bridgeChecksPassed": true,
+    "leftMouseBehavior": "native mouse events verified",
+    "rightMenuAndMainWindow": "user-assisted verification with independent window observations",
+    "unverified": [
+      "Intel hardware",
+      "macOS 27 hardware",
+      "two physical Macs cloud sync"
+    ]
+  }
+}
