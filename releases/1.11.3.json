@@ -1,0 +1,38 @@
+{
+  "product": "reBar",
+  "version": "1.11.3",
+  "build": 36,
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimumMacOS": "13.0",
+  "bundleIdentifier": "com.remocode.rebar.menubar",
+  "sourceRepository": "BlueOriginAI/reBar-source",
+  "sourceRevision": "5556964e320b16a25c9da94389c412baedadf20a",
+  "sourceTag": "v1.11.3",
+  "asset": "reBar-1.11.3-macOS-arm64.dmg",
+  "assetSize": 7622738,
+  "sha256": "09006f3f185d50ec2ab06de90037963b1a7120e4335bb457a7359c87699f67b3",
+  "developerTeam": "F2VPRQXFH4",
+  "notarization": {
+    "application": "Accepted",
+    "diskImage": "Accepted"
+  },
+  "changes": "Packaging-only rebuild of the 1.11.2 feature set; no functional changes.",
+  "validation": {
+    "releaseBuildPassed": true,
+    "sourceRevisionVerified": true,
+    "signaturesVerified": true,
+    "stapledTicketsVerified": true,
+    "gatekeeperPassed": true,
+    "diskImageVerified": true,
+    "functionalTestsRerun": false,
+    "knownLimitations": [
+      "Cloud service unavailable in current local preview"
+    ],
+    "unverified": [
+      "Intel hardware",
+      "macOS 27 hardware",
+      "two physical Macs cloud sync"
+    ]
+  }
+}

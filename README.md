@@ -2,7 +2,7 @@
 
 原生 macOS 菜单栏管理工具。
 
-[下载 reBar 1.11.2（Apple Silicon）](https://github.com/BlueOriginAI/reBar/releases/download/v1.11.2/reBar-1.11.2-macOS-arm64.dmg) · [版本说明](https://github.com/BlueOriginAI/reBar/releases/tag/v1.11.2)
+[下载 reBar 1.11.3（Apple Silicon）](https://github.com/BlueOriginAI/reBar/releases/download/v1.11.3/reBar-1.11.3-macOS-arm64.dmg) · [版本说明](https://github.com/BlueOriginAI/reBar/releases/tag/v1.11.3)
 
 ## 使用
 
