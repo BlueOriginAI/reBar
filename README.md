@@ -24,4 +24,4 @@ macOS 13+，Apple Silicon（arm64）。下载已完成 Developer ID 签名与 Ap
 
 历史 reBar Go / reRoute 标签与安装包保留供旧用户查询；当前原生 reBar 继续使用 1.11.x 版本号。reRoute 的当前公开仓库为 [BlueOriginAI/reRoute](https://github.com/BlueOriginAI/reRoute)。
 
-reBar 基于 [Hidden Bar](https://github.com/dwarvesf/hidden)，应用内保留上游 MIT 许可与第三方声明。
+reBar 基于 [Hidden Bar](https://github.com/dwarvesf/hidden)，第三方组件的版权与许可见 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)，应用内保留相应声明。
