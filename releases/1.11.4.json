@@ -1,0 +1,42 @@
+{
+  "product": "reBar",
+  "version": "1.11.4",
+  "build": 37,
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimumMacOS": "13.0",
+  "bundleIdentifier": "com.remocode.rebar.menubar",
+  "sourceRepository": "BlueOriginAI/reBar-source",
+  "sourceRevision": "ffdd40182d5736ce46d42b2de1bd2bcb64016a76",
+  "sourceTag": "v1.11.4",
+  "asset": "reBar-1.11.4-macOS-arm64.dmg",
+  "assetSize": 7609218,
+  "sha256": "a0c407cba40eee9318c3c0e6206566cfbae0f84a498ede68f2421404648be1b8",
+  "developerTeam": "F2VPRQXFH4",
+  "notarization": {
+    "application": "Accepted",
+    "diskImage": "Accepted"
+  },
+  "changes": "Compact settings layout, menu-bar spacing and visibility fixes, reliable icon rearrangement, account/UI polish and reBar login branding.",
+  "validation": {
+    "nativeUnitTestsPassed": 33,
+    "bridgeTestsPassed": true,
+    "releaseBuildPassed": true,
+    "sourceRevisionVerified": true,
+    "signaturesVerified": true,
+    "stapledTicketsVerified": true,
+    "gatekeeperPassed": true,
+    "diskImageVerified": true,
+    "localUIChecks": [
+      "settings layout",
+      "account buttons",
+      "menu-bar preview",
+      "bundled login callback template"
+    ],
+    "unverified": [
+      "Intel hardware",
+      "macOS 27 hardware",
+      "two physical Macs cloud sync"
+    ]
+  }
+}

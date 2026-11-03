@@ -2,14 +2,14 @@
 
 原生 macOS 菜单栏管理工具。
 
-[下载 reBar 1.11.3（Apple Silicon）](https://github.com/BlueOriginAI/reBar/releases/download/v1.11.3/reBar-1.11.3-macOS-arm64.dmg) · [版本说明](https://github.com/BlueOriginAI/reBar/releases/tag/v1.11.3)
+[下载 reBar 1.11.4（Apple Silicon）](https://github.com/BlueOriginAI/reBar/releases/download/v1.11.4/reBar-1.11.4-macOS-arm64.dmg) · [版本说明](https://github.com/BlueOriginAI/reBar/releases/tag/v1.11.4)
 
 ## 使用
 
 - 左键点击菜单栏箭头：展开／收起图标。
 - 右键点击箭头，选择“显示主窗口”：打开设置。
 - 按住 `⌘` 拖动真实菜单栏图标：箭头左侧收起后隐藏，右侧保持显示。
-- 全局快捷键、登录启动、自动收起和刘海屏溢出菜单可在设置中调整。
+- 全局快捷键、登录启动和自动收起可在设置中调整。
 - 有效的本地签名权益缓存用于账户与 Pro 状态展示；云端配置需要账户与 Pro 验证。
 
 ## 安装
