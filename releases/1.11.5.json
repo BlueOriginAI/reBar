@@ -1,0 +1,43 @@
+{
+  "product": "reBar",
+  "version": "1.11.5",
+  "build": 38,
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimumMacOS": "13.0",
+  "bundleIdentifier": "com.remocode.rebar.menubar",
+  "sourceRepository": "BlueOriginAI/reBar-source",
+  "sourceRevision": "9ef457fcdb236211773e447b99c05ddc02ba03ce",
+  "sourceTag": "v1.11.5",
+  "asset": "reBar-1.11.5-macOS-arm64.dmg",
+  "assetSize": 7609468,
+  "sha256": "8e14c807627afc041ca9c6ede7ea442ffaf23baf76d60d2c18c10f76f9c1e288",
+  "developerTeam": "F2VPRQXFH4",
+  "notarization": {
+    "application": {
+      "status": "Accepted",
+      "id": "c551b91f-44fd-4296-9691-a1cb9c7f29e2",
+      "message": "Processing complete"
+    },
+    "diskImage": {
+      "id": "d6578479-d077-487c-86b1-75d1225459d7",
+      "message": "Processing complete",
+      "status": "Accepted"
+    }
+  },
+  "changes": "Re-anchor hiding boundary after manual icon moves so icons immediately left of the arrow collapse.",
+  "validation": {
+    "releaseBuildPassed": true,
+    "sourceRevisionVerified": true,
+    "signaturesVerified": true,
+    "stapledTicketsVerified": true,
+    "gatekeeperPassed": true,
+    "diskImageVerified": true,
+    "unverified": [
+      "Intel hardware",
+      "macOS 27 hardware",
+      "two physical Macs cloud sync"
+    ],
+    "functionalTestsRerun": false
+  }
+}
